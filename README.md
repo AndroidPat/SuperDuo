@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# SuperDuo
-||||||| merged common ancestors
-=======
 # SuperDuo
 Udacity Project
->>>>>>> 83b4060d4273963ac29da1548654b084a44feec9
+=======
+Alexandria app is on branch master-1
+Football-Scores app is on branch master-2
+Please place the API key for the Football-Scores app in the strings.xml ("api_key").
