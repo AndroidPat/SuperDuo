@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Application name displayed in the Action bar and under the application icon -->
+    <string name="app_name">Alexandria</string>
+
+    <!-- Menu Items -->
+    <string name="books">List of Books</string>
+    <string name="scan">Scan/Add a Book</string>
+    <string name="about">About this App</string>
+    <!-- "open drawer" description for accessibility -->
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <!-- "close drawer" description for accessibility-->
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <!-- Text for action settings menu -->
+    <string name="action_settings">Settings</string>
+    <!-- Label for scan button in Add Book fragment -->
+    <string name="scan_button">Scan</string>
+    <!-- Hint text displayed in text field in Add Book fragment -->
+    <string name="input_hint">Insert ISBN-13. Digits only.</string>
+    <!-- Content description for book cover image view in List of Books fragment -->
+    <string name="book_cover">Bookcover</string>
+    <!-- Label for button proceeding with addition of a book in AddBook fragment -->
+    <string name="ok_button">Next</string>
+    <!-- Label for button cancelling addition of a book in AddBook fragment -->
+    <string name="cancel_button">Cancel</string>
+    <string name="not_found">No Book found</string>
+    <!-- Content description for search button in List of Books fragment -->
+    <string name="search">Search</string>
+    <!-- Text for delete button in book detail fragment -->
+    <string name="delete">Delete Book</string>
+    <string name="pref_startScreen">Select Startscreen</string>
+    <!-- Label for settings activity in the action bar -->
+    <string name="title_activity_settings">Settings</string>
+    <!-- String for share action button -->
+    <string name="action_share">Share</string>
+    <!-- Content description for back button in book detail view -->
+    <string name="back_button">go back</string>
+    <!-- Text added to the shared message along with the books title -->
+    <string name="share_text">A must read book: </string>
+    <!-- Text covering description of the application displayed in about section in drawer -->
+    <string name="about_text">This application gets book information from a Google API. All titles, cover images, and author information come from there.
+    The original version of this app was built by Sascha Jaschke, and a modified version is given to students in the Udacity Android Nanodegree program. </string>
+</resources>
